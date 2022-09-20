@@ -1,0 +1,8 @@
+C:\Users\Richard\source\repos\Eco-Modus\Eco-Modus\obj\Debug\Eco-Modus.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\Eco-Modus\Eco-Modus\obj\Debug\Eco-Modus.csproj.CoreCompileInputs.cache
+C:\Steam\steamapps\common\Grand Theft Auto V\scripts\Eco-Modus.dll
+C:\Steam\steamapps\common\Grand Theft Auto V\scripts\Eco-Modus.pdb
+C:\Users\Richard\source\repos\Eco-Modus\Eco-Modus\obj\Debug\Eco-Modus.dll
+C:\Users\Richard\source\repos\Eco-Modus\Eco-Modus\obj\Debug\Eco-Modus.pdb
+C:\Users\Richard\source\repos\Eco-Modus\Eco-Modus\bin\Debug\Eco-Modus.dll
+C:\Users\Richard\source\repos\Eco-Modus\Eco-Modus\bin\Debug\Eco-Modus.pdb
